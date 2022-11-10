@@ -1,0 +1,6 @@
+"Name: \TY:ZCL_TEST_ENSC\ME:RUN\SE:BEGIN\EI
+ENHANCEMENT 0 ZTEST_IMPL2.
+
+cl_demo_output=>write( |Test| ).
+
+ENDENHANCEMENT.
