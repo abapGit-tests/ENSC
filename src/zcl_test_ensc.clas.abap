@@ -7,6 +7,8 @@ CLASS zcl_test_ensc DEFINITION
     METHODS:
       run.
 
+protected section.
+private section.
 ENDCLASS.
 
 
